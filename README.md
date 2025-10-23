@@ -1,1 +1,1 @@
-# Homework Algorithm
+# Homework-algorithm
