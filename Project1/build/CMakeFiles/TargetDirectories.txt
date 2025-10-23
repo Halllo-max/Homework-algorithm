@@ -1,0 +1,4 @@
+/home/Halllo/Projects/Homework-algorithm/Project1/build/CMakeFiles/main_A.dir
+/home/Halllo/Projects/Homework-algorithm/Project1/build/CMakeFiles/main_B.dir
+/home/Halllo/Projects/Homework-algorithm/Project1/build/CMakeFiles/edit_cache.dir
+/home/Halllo/Projects/Homework-algorithm/Project1/build/CMakeFiles/rebuild_cache.dir
